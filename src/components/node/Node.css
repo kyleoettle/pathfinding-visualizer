@@ -65,6 +65,7 @@
     0% {
       transform: scale(0.6);
       background-color: rgb(83, 35, 35);
+      border-radius: 100%;
     }
   
     25% {
