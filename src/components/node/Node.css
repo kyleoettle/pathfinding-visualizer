@@ -16,3 +16,11 @@
   .node-wall {
     background-color: rgb(12, 53, 71);
   }
+
+  .node-visited {
+    background-color: rgba(0, 190, 218, 0.75);
+  }
+
+  .node-shortest-path {
+    background-color: rgb(255, 254, 106);
+  }
