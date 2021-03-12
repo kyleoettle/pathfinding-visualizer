@@ -67,13 +67,23 @@
       background-color: rgb(83, 35, 35);
     }
   
-    50% {
+    25% {
       transform: scale(1.2);
       background-color: rgb(168, 70, 70);
     }
   
-    100% {
+    50% {
       transform: scale(1);
       background-color: rgb(255, 106, 106);
+    }
+
+    75% {
+      transform: scale(1);
+      background-color: rgb(255, 178, 106);
+    }
+
+    100% {
+      transform: scale(1);
+      background-color: rgb(255, 240, 106);
     }
   }
